@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mohammad Abdollahi"
   avatar           : "profile2.png"
-  bio              : "Senior undergraduate student of computer Engineering at Isfahan University of Technology & former data scientist at virgool.io. interested in applied machine learning, NLP, Data mining and Software Engineering"
-  location         : "Location"
+  bio              : "Undergraduate computer engineering student Interested in applied machine learning, NLP, Data mining and Software Engineering."
+  location         : "Iran"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            :  m.abdollahi776@gmail.com  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mohammad-abdollahi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : mohammad-abdollahi-52a806181
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
