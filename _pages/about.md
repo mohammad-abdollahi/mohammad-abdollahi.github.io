@@ -11,9 +11,10 @@ My name is Mohammad, born in Abadan, Iran. It is a persian name, natively writte
 
 I'm senior undergraduate computer engineering student at [Isfahan University of Technology](https://cwur.org/2018-19/Isfahan-University-of-Technology.php), one of the most prestigious universities in Iran. 
 
-I was a data scientist at [Virgool](https://virgool.io/), from May 2019 to July 2020 and Worked on many challenging problems in big data, data mining, machine learning and NLP. Virgool is the greatest persian [online publishing platform](https://en.wikipedia.org/wiki/Electronic_publishing) serving millions of monthly users.
+I was a data scientist at [Virgool](https://virgool.io/), from May 2019 to July 2020 and Worked on many challenging problems in machine learning, NLP, data mining, big data and software engineering. Virgool is the greatest persian [online publishing platform](https://en.wikipedia.org/wiki/Electronic_publishing) serving millions of users per month.
 
-I'm a machine learning enthusiast and currently reseaching on NLP and deep recommendation system.
+I'm a machine learning enthusiast and currently reseaching on NLP and deep recommendation system. Besides that, I'm also interested in data minig, software engineering and computer vision.
+
 
 
 [comment]: <This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).>
