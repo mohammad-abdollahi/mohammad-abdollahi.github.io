@@ -9,23 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="https://mohammad-abdollahi.github.io/assets/MyCv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://mohammad-abdollahi.github.io/assets/MyCv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://mohammad-abdollahi.github.io/assets/MyCv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Dimploma in mathematics, National Organization for Development of Exceptional Talents, GPA(19.7/20), 2016
+* B.S. in Computer Engineering, Isfahan University of Technology, GPA(17/20), 2012
+
+Research experience 
+======
+* Isfahan University of Technology: 
+  * implementing machine and deep learning algorithms for recommendation systems on apache spark
+* Virgool:
+  * text classification and generation 
+  * keyword extraction
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assitant at Isfahan University of Technology
+  * Introduction to programming
+  * Advanced programming
+  * Data structures
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Scientist at Virgool
+  * research and development, doing tasks like collecting data sets, data preprocess, data minig, implementing machine and deep learning models 
   
 Skills
 ======
